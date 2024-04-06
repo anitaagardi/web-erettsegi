@@ -1,3 +1,7 @@
+https://erettsegifeladatkereso.oktatas.hu/feladatok/kereso/42
+Egybesült karaj weblap-szerkesztés
+
+
 1. Az oldal forrásszövegét a recept.txt állományban találja.
 2. Hozza létre a html fájl, amely az oldal szövegét tartalmazza
 3. A böngésző címsorában megjelenő cím szövege: „Recept” legyen!
