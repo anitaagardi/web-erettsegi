@@ -9,5 +9,6 @@ Egybesült karaj weblap-szerkesztés
   tűzdelt karaj
   sertéssült
   A „tűzdelt karaj” és a „sertéssült” szavakat alakítsa linkké, amelyek a kapcsos zárójelekben lévő címekre mutassanak! A kapcsos zárójeleket a címekkel együtt törölje ki!
-5. Az oldal címét, az „Egybesült karaj recept” szöveget alakítsa egyes szintű címsor, és a másik öt alcímet kettes szintű címsor stílusúvá!
+5. Az oldal címét, az „Egybesült karaj recept” szöveget alakítsa egyes szintű címsor,
+ és a másik öt alcímet kettes szintű címsor stílusúvá!
 6. Hozza létre a felsorolásokat a minta szerint
